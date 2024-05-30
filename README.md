@@ -5,6 +5,7 @@ This project is aimed at developing a Real-Time Operating System (RTOS) for mult
 
 ## Project Structure
 
+```
 Real-Time Operating System/
 │
 ├── .settings/
@@ -33,9 +34,7 @@ Real-Time Operating System/
 ├── STM32F401RETX_FLASH.ld
 ├── STM32F401RETX_RAM.ld
 └── README.md
-
-markdown
-Copy code
+```
 
 ### Directory and File Descriptions
 
